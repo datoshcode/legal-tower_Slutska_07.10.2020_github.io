@@ -63,9 +63,12 @@ hr {
   padding: 0px 20px 10px 0px;
 }
 
+ /* Размер изображения автора публикации для ПК */
 .header__photo-author img {
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
+  width: 250px;
+  line-height: 350px;
 }
 
 /* Дата публикации */
