@@ -71,6 +71,7 @@
 
 /* ============================== begin: Экран до 680px =========================== */
 @media (max-width: 680px) {
+  
   .slider__title {
     max-width: 680px !important;
     width: 100%;
@@ -439,6 +440,12 @@
 
   .header__publication__author-name {
     text-align: left;
+  }
+
+  /* Размер изображения автора публикации для мобильной версии */
+  .header__photo-author img {
+    width: 314px;
+    height: 440px;
   }
 
   .publication-author-profession {
