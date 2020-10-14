@@ -183,6 +183,7 @@ th {padding: 5px;} /* Поля вокруг текста в таблице */
 
 p.footer__name-author {
   font-weight: 500;
+  font-size: 16px;
   float: right;
   padding-right: 10px;
 }
