@@ -181,6 +181,19 @@ th {padding: 5px;} /* Поля вокруг текста в таблице */
 /* Цвет текста устаревшей редакции закона в сравнительных таблицах */
 .old p {color: #5c5c5c;}
 
+p.footer__name-author {
+  font-weight: 500;
+  float: right;
+  padding-right: 10px;
+}
+
+p.copytext {
+  font-style: italic;
+  font-size: 14px;
+  font-weight: 500;
+  padding-top: 70px;
+}
+
 /* Выделение текста маркером */
 mark {
   background: #ffec82;
