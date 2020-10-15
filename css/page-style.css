@@ -196,7 +196,7 @@ th {padding: 5px;} /* Поля вокруг текста в таблице */
 .footer-publication__attention-copy {
   font-style: italic;
   font-weight: 500;
-  padding-top: 70px;
+  padding-top: 40px;
 }
 
 /* Выделение текста маркером */
