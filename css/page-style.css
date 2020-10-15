@@ -181,7 +181,7 @@ th {padding: 5px;} /* Поля вокруг текста в таблице */
 /* Цвет текста устаревшей редакции закона в сравнительных таблицах */
 .old p {color: #5c5c5c;}
 
-p.copy-name-author {
+.copy-name-author {
   font-weight: 500;
   float: right;
   padding-right: 10px;
