@@ -181,13 +181,18 @@ th {padding: 5px;} /* Поля вокруг текста в таблице */
 /* Цвет текста устаревшей редакции закона в сравнительных таблицах */
 .old p {color: #5c5c5c;}
 
-.copy-name-author {
+.footer-publication {
+  padding-top: 10px;
+  font-size: 16px;
+}
+
+.footer-publication__author {
   font-weight: 500;
   float: right;
   padding-right: 10px;
 }
 
-p.attention-copy{
+.footer-publication__attention-copy {
   font-style: italic;
   font-weight: 500;
   padding-top: 70px;
