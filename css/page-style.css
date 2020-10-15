@@ -181,6 +181,7 @@ th {padding: 5px;} /* Поля вокруг текста в таблице */
 /* Цвет текста устаревшей редакции закона в сравнительных таблицах */
 .old p {color: #5c5c5c;}
 
+/* Подвал публикации */
 .footer-publication {
   padding-top: 10px;
   font-size: 16px;
@@ -215,15 +216,6 @@ mark {
   margin-top: -26px;
 }
 /* end: Инструкции для таблиц */
-
-/* Подвал публикации */
-.footer__publication {
-  text-align: center;
-  font-weight: 500;
-}
-
-.footer-publication p,
-.footer-publication a {font-size: 16px;}
 
 /* Отдельные инструкции для стилей страницы "Про нас" */
 .header-about__logo {
